@@ -3,7 +3,7 @@
 int main(){
 
 //For Integer
-int m[]={};
+int m[0];
 int counterm=0;
 
 while(m[counterm]!='\0'){
@@ -13,7 +13,7 @@ while(m[counterm]!='\0'){
 printf("%d\n",counterm);
 
 //For Character
-/*char n[]="Hello";
+char n[]="Hello";
 int countern=0;
 
 while(n[countern]!='\0'){
@@ -21,7 +21,7 @@ while(n[countern]!='\0'){
 	
 }
 printf("%d\n",countern);
-*/
+
 
 return 0;
 
